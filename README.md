@@ -1,4 +1,4 @@
-# simple-stratum-mining-proxy
+# simple-node-stratum-mining-proxy
 
 ## Info:
 - This is a TCP proxy created for the use of forwarding mining traffic
