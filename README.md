@@ -1,0 +1,1 @@
+# simple-stratum-mining-proxy
