@@ -2,7 +2,7 @@
   "name": "simple-stratum-proxy",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js \"es.alephium.herominers.com\" 5050 1221"
+    "start": "node bot.js \"SERVERURL\" SERVERPORT 1221"
   },
   "author": "JordanGreen",
   "license": "GNU"
